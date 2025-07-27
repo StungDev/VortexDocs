@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunknotes=self.webpackChunknotes||[]).push([[425],{430:e=>{e.exports=JSON.parse('{"categoryGeneratedIndex":{"title":"Recipes","slug":"/category/recipes","permalink":"/category/recipes","sidebar":"tutorialSidebar","navigation":{"previous":{"title":"The Time Vortex","permalink":"/"},"next":{"title":"Steel","permalink":"/recipes/steel"}}}}')}}]);
