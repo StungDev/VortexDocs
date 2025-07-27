@@ -20,7 +20,7 @@ const config = {
   },
 
   // Set the production url of your site here
-  url: 'https://github.com',
+  url: 'https://stungdev.github.io',
   // Set the /<baseUrl>/ pathname under which your site is served
   // For GitHub pages deployment, it is often '/<projectName>/'
   baseUrl: '/vortexdocs/',
@@ -30,7 +30,7 @@ const config = {
   organizationName: 'stungdev', // Usually your GitHub org/user name.
   projectName: 'vortexdocs', // Usually your repo name.
   deploymentBranch: 'gh-pages',
-  // trailingSlash: false,
+  trailingSlash: false,
 
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
